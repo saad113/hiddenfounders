@@ -1,0 +1,9 @@
+update infos in the config.php for connection
+actual config is:
+
+username: root
+password: <empty>
+
+bd name : hidden
+
+made on wampserver 3.1.3
